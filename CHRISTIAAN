@@ -2,4 +2,8 @@ GHELLO
 hallo
 ook ne 
 
-goedenavond
+<<<<<<< HEAD
+goedenavond klootzak
+=======
+slaapwel meneerke
+>>>>>>> master
